@@ -4,7 +4,7 @@
 
 Package.describe({
   name: 'mrmowgli:fomantic-ui-data',
-  version: '2.3.2',
+  version: '2.7.2',
   summary: 'Data package for Fomantic UI Meteor',
   git: 'git@github.com:mrmowgli/Fomantic-UI-Meteor-Data.git',
   documentation: 'README.md'
